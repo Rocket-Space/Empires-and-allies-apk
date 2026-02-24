@@ -32,6 +32,11 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 
 :paw_prints: The project [Contributors](../../contributors)
 
+
+## Native Android base
+
+A new native Android bootstrap module is available in [`android-native/`](android-native/README.md) to begin a full rewrite without Termux or external browsers.
+
 ## Tools
 :compass: [Empires & Allies Modding Support](mods#readme)
 
